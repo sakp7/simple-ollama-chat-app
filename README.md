@@ -90,9 +90,7 @@ if a:
 *   This code builds a Streamlit application that takes user input and uses the language chain to generate a response.
 *   The response is then displayed to the user.
 
-### Project Deployed Link
 
-The project is deployed on Streamlit Cloud and can be accessed at [https://example.com](https://example.com).
 
 ### Project Database Link
 
